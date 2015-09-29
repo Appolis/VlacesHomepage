@@ -1,2 +1,2 @@
-﻿angular.module('VlacesMainModule', ['ngRoute'])
+﻿angular.module('VlacesMainModule', ['ngRoute', 'ngResource'])
     .config(function($routeProvider) {});

@@ -70,6 +70,8 @@
     <Content Include="css\application.css" />
     <Content Include="index.html" />
     <Content Include="js\controllers\index-controller.js" />
+    <Content Include="js\services\gravatar.js" />
+    <Content Include="js\services\vlace.js" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\VlacesWeb.pubxml" />
     <Content Include="js\vendor\angular.min.js.map" />
@@ -100,7 +102,6 @@
   <ItemGroup>
     <Folder Include="js\directives\" />
     <Folder Include="js\filters\" />
-    <Folder Include="js\services\" />
     <Folder Include="js\templates\home\" />
   </ItemGroup>
   <PropertyGroup>
